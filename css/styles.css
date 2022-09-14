@@ -1,0 +1,66 @@
+body{
+    background-color: #EEEEEE;
+}
+hr{
+    border:none;
+    border-style: dotted none none none;
+    border-width: 7px;
+    background-color:#EEEEEE;
+    border-color: grey;
+    width: 5%;
+ }
+ h1{
+    color: #00ADB5;
+ }
+ h3{
+    color: #00ADB5;
+ }
+ h4{
+    color: #393E46;
+ }
+ body{
+    font: 100% "Fira Sans", sans-serif;
+ }
+
+ table{
+    font: 100% "Fira Sans", sans-serif;
+ }
+  p{
+    font: 100% "Fira Sans", sans-serif;
+  }
+  a:hover{
+color: #D800A6;
+transform: scale(2.0);
+  }
+  .zoom:hover{
+    transform: scale(1.1);
+    transition-duration: 0.8s;
+    
+  }
+  .button{
+    
+        width: 10em;
+        height: 5ex;
+        background-color: gold;
+        border: 2px solid firebrick;
+        border-radius: 10px;
+        font-weight: bold;
+        color: black;
+        cursor: pointer;
+  }
+  .button:hover{
+    background-color: white;
+  }
+  .edutable {
+    border: 1px solid;
+    border-radius: 2%;
+    width: 50%;
+    height: 20%;
+    align-items: center;
+    text-align: center;
+  }
+  .eduhead {
+    height:2em;
+    color: #222831;
+    font-size: 100%;
+  }
